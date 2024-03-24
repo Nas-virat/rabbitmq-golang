@@ -1,2 +1,4 @@
 # rabbitmq-golang
-Learn rabbitmq 
+
+This repository is tutorial rabbitmq using golang. I learn from the documenation of rabbitmq https://www.rabbitmq.com/docs/download
+
